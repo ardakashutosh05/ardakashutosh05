@@ -39,7 +39,6 @@ Email Me 👉 ✉️ **ashutoshardak03@gmail.com** For Collaboration / Anything 
 ---
 [![](https://visitcount.itsvg.in/api?id=ardakashutosh05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-![GitHub Snake](https://github.com/ardakashutosh05/ardakashutosh05/raw/output/ocean.gif)
-
+![GitHub Snake](https://github.com/ardakashutosh05/ardakashutosh05/raw/output/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

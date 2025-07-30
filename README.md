@@ -11,6 +11,9 @@ Email Me 👉 ✉️ **ashutoshardak03@gmail.com** For Collaboration / Anything 
 - 😄 **Pronouns:** ashu
 - ⚡ **Fun fact:** I love tech and... tech loves me back! 💻❤
 
+## 🐍 GitHub Contribution Snake
+![GitHub Snake](https://github.com/ardakashutosh05/ardakashutosh05/raw/output/github-snake.svg)
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh_ardak_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashutosh_Ardak ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ardak_7017591) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshardak03@gmail.com) 
 
@@ -34,7 +37,5 @@ Email Me 👉 ✉️ **ashutoshardak03@gmail.com** For Collaboration / Anything 
 ---
 [![](https://visitcount.itsvg.in/api?id=ardakashutosh05&icon=0&color=0)](https://visitcount.itsvg.in)
 
-## 🐍 GitHub Contribution Snake
-![GitHub Snake](https://github.com/ardakashutosh05/ardakashutosh05/raw/output/github-snake.svg)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->

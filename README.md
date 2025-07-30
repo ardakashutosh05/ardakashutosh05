@@ -9,11 +9,7 @@ Email Me 👉 ✉️ **ashutoshardak03@gmail.com** For Collaboration / Anything 
 - 🤔 **I’m looking for help with:** ☁️ Deploying Python Projects using Docker and CI/CD pipelines
 - 📫 **How to reach me:** ashutoshardak03@gmail.com *(👉 Replace this with your real email or LinkedIn profile)*
 - 😄 **Pronouns:** ashu
-- ⚡ **Fun fact:** I love tech and... tech loves me back! 💻❤️
-
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
-
+- ⚡ **Fun fact:** I love tech and... tech loves me back! 💻❤
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/ashutosh_ardak_04) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/Ashutosh_Ardak ) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/@ardak_7017591) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:ashutoshardak03@gmail.com) 
@@ -31,6 +27,8 @@ Email Me 👉 ✉️ **ashutoshardak03@gmail.com** For Collaboration / Anything 
 ![](https://nirzak-streak-stats.vercel.app/?user=ardakashutosh05&theme=dark&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=ardakashutosh05&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
 
+## 🏆 GitHub Trophies
+![](https://github-profile-trophy.vercel.app/?username=alamimran613&theme=radical&no-frame=false&no-bg=false&margin-w=4)
 
 ### ✍️ Random Dev Quote
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)

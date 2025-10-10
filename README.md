@@ -1,13 +1,13 @@
 # 💫 Hi 👋, I'm Ashutosh Ardak
 **A passionate Cloud Engineer || DevOps Engineer ||  from India**
 
-Email Me 👉 ✉️ **ashutoshardak03@gmail.com** For Collaboration / Anything Else. 😊😊
+Email Me 👉 ✉️ **ardakashutosh05@gmail.com** For Collaboration / Anything Else. 😊😊
 
 - 🔭 **I’m currently working on:** 🎧 Audio to Text Converter with Beautiful UI (Python + Tkinter)
 - 🌱 **I’m currently learning:** 🚀 Python, devops
 - 👯 **I’m looking to collaborate on:** 🤝 Python Automation Tools and Open-source Backend Projects
 - 🤔 **I’m looking for help with:** ☁️ Deploying Python Projects using Docker and CI/CD pipelines
-- 📫 **How to reach me:** ashutoshardak03@gmail.com *(👉 Replace this with your real email or LinkedIn profile)*
+- 📫 **How to reach me:** ardakashutosh05@gmail.com *(👉 Replace this with your real email or LinkedIn profile)*
 - 😄 **Pronouns:** ashu
 - ⚡ **Fun fact:** I love tech and... tech loves me back! 💻❤
 
